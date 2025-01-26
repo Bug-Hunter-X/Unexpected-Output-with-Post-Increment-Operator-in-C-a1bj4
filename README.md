@@ -1,0 +1,1 @@
+This repository contains a simple C program that highlights a potential confusion with the post-increment operator. The program demonstrates how the order of evaluation can lead to unexpected results if not carefully considered. The `bug.c` file shows the erroneous code, while `bugSolution.c` provides a corrected version and explanation.
